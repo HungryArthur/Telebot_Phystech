@@ -19,7 +19,7 @@
 1. Клонируйте репозиторий:
 
 	```bash
-	git clone https://github.com/HungryArthur/telegram-birthday-cat-bot.git
+	git clone https://github.com/HungryArthur/Telebot_Phystech.git
 	cd telegram-birthday-cat-bot
 
 2. Создайте виртуальное окружение:
